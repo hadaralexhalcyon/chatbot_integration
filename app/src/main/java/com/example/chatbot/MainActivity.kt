@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
             </head>
             
             <body>
-              <div id="website-embed-div"></div>=
+              <div id="website-embed-div"></div>
             </body>
             
             </html>
